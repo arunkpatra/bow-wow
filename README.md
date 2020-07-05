@@ -24,3 +24,7 @@ The source code of Bow-Wow is licensed under [Apache License 2.0](https://www.ap
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md) file.
+
+## Credits
+
+Dog image credit - Copyright: Martin Dimitrov (iStock.com/martin-dm)
